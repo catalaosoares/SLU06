@@ -1,2 +1,5 @@
-Milk\nEggs\nBread
+Milk
+Eggs
+Bread
 Butter
+More eggs (mum wants pudding!)
